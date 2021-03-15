@@ -39,6 +39,7 @@ html, body {
   
   h3 {
     font-size: 2.2rem;
+    text-align: center;
   }
   
   p, li {
@@ -128,5 +129,5 @@ html, body {
   }
   
   footer {
-    margin-top: 1px;
+    margin-bottom: 1px;
   }
